@@ -1,0 +1,22 @@
+# Data Structures Assignment 1 - Jashandeep Kaur
+
+## Challenges Overview
+This project implements various data structures, including arrays, linked lists, stacks, queues, and binary trees, each encapsulated in its respective class.
+
+### 1. ArtifactVault (Array-based storage)
+  - **Functionality**: Stores artifacts in an array, allowing additions, removals, and searches.
+
+### 2. LabyrinthPath (Linked List)
+  - **Functionality**: Represents a labyrinth path using a singly linked list, with methods for adding/removing locations and detecting loops.
+
+### 3. ScrollStack (Stack)
+  - **Functionality**: Manages ancient scrolls using a stack, allowing push/pop operations and peek functionality.
+
+### 4. ExplorerQueue (Circular Queue)
+  - **Functionality**: Manages explorers waiting in line using a circular queue.
+
+### 5. ClueTree (Binary Tree)
+  - **Functionality**: Represents clues in a binary search tree, with methods for insertion, traversal, and searching.
+
+## Instructions to Run
+1. Clone this repository
